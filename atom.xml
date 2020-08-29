@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://liuliuz.com.cn</id>
     <title>溜溜周-LIULIUZ</title>
-    <updated>2020-08-29T06:43:31.868Z</updated>
+    <updated>2020-08-29T06:45:44.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://liuliuz.com.cn"/>
     <link rel="self" href="http://liuliuz.com.cn/atom.xml"/>
-    <subtitle>我是溜溜周啊～在这里与你们分享学习，技术，动漫等等的趣事，欢迎大家订阅（RSS）哦！&lt;a href=&quot;https://space.bilibili.com/281386718&quot; target=&quot;_blank&quot;&gt;B站视频号&lt;/a&gt; </subtitle>
+    <subtitle>我是溜溜周啊～在这里与你们分享学习，技术，动漫等等的趣事，欢迎大家订阅（RSS）哦！B站空间：.../281386718 ID:溜溜周啊</subtitle>
     <logo>http://liuliuz.com.cn/images/avatar.png</logo>
     <icon>http://liuliuz.com.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 溜溜周-LIULIUZ</rights>
